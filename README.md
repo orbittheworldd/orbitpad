@@ -1,4 +1,4 @@
-# Dylpickle's Hackpad!
+# dylpickle/orbittheworld's Hackpad!
 My build for stardance using the "hackpad" macropad tutorial!
 
 <img width="800" height="674" alt="Screenshot 2026-06-23 004936" src="https://github.com/user-attachments/assets/6ed28cc4-bedb-44a5-bc51-5c7f740e60b6" />
